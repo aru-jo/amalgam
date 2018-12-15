@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/aravind/Desktop/Projects/CNN-CVD/dogsvscats-0.001-6conv-basic-video"
+all_model_checkpoint_paths: "/Users/aravind/Desktop/Projects/CNN-CVD/dogsvscats-0.001-6conv-basic-video"
